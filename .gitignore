@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.exe
+*.dll
+*.pyd
+.env
+.env.*
+news.json
+settings.json
+translations.json
+*.log
+.DS_Store
+Thumbs.db
